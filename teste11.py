@@ -1,1 +1,1 @@
-print("hi i'm hugo")
+print("hi i'm hugo and she is Amanda")
