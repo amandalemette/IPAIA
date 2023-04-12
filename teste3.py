@@ -1,2 +1,2 @@
 print("oi, caio")
-skdlfkgkjkf
+print("skdlfkgkjkf")
